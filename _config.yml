@@ -34,7 +34,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: vet Home
+  - title: dzh Home
     link: /
   - title: 科研项目 Research
     link: /research.html
