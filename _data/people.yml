@@ -2,18 +2,18 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
-    role: faculty
+    display_name: "刘易斯汉密尔顿 Lewis Hamilton"
+    github: zhaohandong
+    role: driver
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    bio: 冠军车手  champion driver
+    webpage: "https://lewishamilton/en/persons/Lewis Hamilton"
 
-scott:
-    display_name: "Scott Summers"
-    role: staff
+George Russell:
+    display_name: "George Russell"
+    role: driver
     image: /img/people/scott.png
-    bio: aka Cyclops
+    bio: driver
 
 wolverine:
     display_name: "Wolverine"
