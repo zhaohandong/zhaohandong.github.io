@@ -9,7 +9,6 @@ people:
   - Max Verstappen
   - Lewis Hamilton
   - Lando Norris
-
 layout:Chinese grand prix
 image: /img/projects/MatterGPT.jpg
 last-updated: 2024-08-08
