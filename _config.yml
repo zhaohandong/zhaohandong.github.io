@@ -1,4 +1,4 @@
-shijieyijiname: 世界一级方程式大奖赛  formula one grand prix
+name: 世界一级方程式大奖赛  formula one grand prix
 url: https://zhaohandong.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -14,11 +14,11 @@ roles:
   - key: leader
     name: 领队 leader
   - key: 1
-    name: 车手 driver
+    name: 本人 self
   - key: 2
-    name: 车手 driver
+    name: 队友 team member
   - key: 2
-    name: 车手 driver
+    name: 车队 convoys
 
 
 # Number of news stories on the front page.
@@ -34,7 +34,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: dzh Home
+  - title: 主页 Home
     link: /
   - title: 奖项 award
     link: /research.html
