@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: dzh Home
     link: /
-  - title: 科研项目 Research
+  - title: 奖项 award
     link: /research.html
-  - title: 论文 Publications
+  - title: 荣誉 reputation
     link: /publications.html
