@@ -1,5 +1,5 @@
 ---
-title: MatterGPT:a GPT2-based large language model for multi-property inverse design of crystal structures.
+title: Chinese Grand Prix.
 
 notitle: false
 
