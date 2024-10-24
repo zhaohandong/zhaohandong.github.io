@@ -10,7 +10,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/oled.png
+image: /img/projects/IMG_chn.jpg
 last-updated: 2020-01-26
 ---
 
